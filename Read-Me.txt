@@ -1,0 +1,27 @@
+Read-Me
+
+
+
+Group: 
+
+Siddharth Pai
+
+Nikola Valcic
+
+Ben Stafl
+
+
+
+Submitted to: Mr. Heffernan 
+
+On: May 27th, 2014
+
+For the course: ICS 4U1 - 01
+
+
+
+To play the game, please run the "FlappyWorld.java" file 
+
+
+
+Thank You, and we hope you enjoy the game!

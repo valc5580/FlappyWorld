@@ -1,0 +1,5 @@
+sid96 20
+nik17 15
+ben96 10
+beaks 5
+flaps 1
