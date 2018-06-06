@@ -4,6 +4,7 @@ A way more awesome version of Flappy Bird coded in Java. New features include di
 This was created using JGrasp as an IDE. To play simply download the repo and execute the following in the terminal:
 
 javac FlappyWorld.java
+
 java FlappyWorld
 
 Enjoy :) 
