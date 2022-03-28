@@ -70,8 +70,3 @@ Multiple themes:
 </table>
 
 Enjoy :) 
-
-
-
-
-Since this is the public version, the repo does not contain the settings json files for the Firebase project or for the cloudfunctions code.
